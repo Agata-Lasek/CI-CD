@@ -2,6 +2,7 @@
 Przykładowe funkcje matematyczne.
 """
 
+
 def add(a: int, b: int) -> int:
     """
     Dodaje dwie liczby.
@@ -11,6 +12,7 @@ def add(a: int, b: int) -> int:
     :return: Wynik dodawania.
     """
     return a + b
+
 
 def subtract(a: int, b: int) -> int:
     """
@@ -22,6 +24,7 @@ def subtract(a: int, b: int) -> int:
     """
     return a - b
 
+
 def multiply(a: int, b: int) -> int:
     """
     Mnoży dwie liczby.
@@ -32,6 +35,7 @@ def multiply(a: int, b: int) -> int:
     """
     return a * b
 
+
 def divide(a: int, b: int) -> float:
     """
     Dzieli jedną liczbę przez drugą.
@@ -41,5 +45,6 @@ def divide(a: int, b: int) -> float:
     :return: Wynik dzielenia.
     """
     return a / b
+
 
 #
