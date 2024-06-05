@@ -1,4 +1,7 @@
-# przykladowe funkcje utils .py
+
+"""
+Przykładowe funkcje matematyczne.
+"""
 def add ( a: int , b: int) -> int:
     return a + b
 def subtract ( a: int , b: int) -> int:
